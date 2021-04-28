@@ -1,0 +1,25 @@
+body {
+    background: #dedede;
+    font-family: Montserrat, sans-serif;
+    font-size: 19px;
+}
+
+#photo {
+   margin-top: 5%;
+}
+
+p {
+  font-size: 30px;
+  font-weight: 900;
+  background-color: #79c701;
+  border-radius: 20px;
+  margin: 5px 0 0 840px;
+  padding: 20px;
+  width: 380px;
+}
+
+a {
+   color: #E1E1E1;
+   text-decoration: none;
+   text-align: center;
+}
